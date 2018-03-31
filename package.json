@@ -1,0 +1,10 @@
+{
+  "name": "serial-midi-proxy",
+  "version": "0.0.1",
+  "description": "A serial midi to serial proxy",
+  "main": "serial-midi-proxy.js",
+  "author": "sertest",
+  "dependencies": {
+    "serialport": "^6.1.1"
+  }
+}
